@@ -4,8 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="https://raw.gitcode.com/Platane/snk/files/main/github-snake.svg" />
 </picture>
-![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
-————————————————
+
 
 ### Hi there 👋,I'm zhe.
 
